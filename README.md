@@ -1,6 +1,8 @@
 # typescript-angular
 
-Initialisation du projet :
+Initialisation d'un projet Typescript avec AngularJS 1.x 
+
+Installations du projet :
 
 ```
 // Installation des outils nécessaires
