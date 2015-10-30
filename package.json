@@ -1,0 +1,11 @@
+{
+  "name": "typescript-angular",
+  "version": "0.0.1",
+  "devDependencies" : {
+    "gulp": "latest",
+    "gulp-server-livereload": "latest",
+    "gulp-typescript": "latest",
+    "merge2": "latest",
+    "tsd": "latest"
+  }
+}
